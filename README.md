@@ -10,34 +10,23 @@
 
 ## 🚀 Key Projects
 
-- 🔮 [**Plux**](https://github.com/milisp/plux)
-  AI finder/explorer, One-click @files to AI context with a visual file tree and notepad. No more copy-paste.
-  *Tech: React · TypeScript · Tauri · MCP*
+- 🔮 [**Plux**](https://github.com/milisp/plux) - AI finder/explorer, One-click @files to AI context with a visual file tree and notepad. No more copy-paste.
 
-- ⚡ [**Codexia**](https://github.com/milisp/codexia)
-  Modern GUI for OpenAI Codex CLI with multi-session support and real-time streaming.
-  *Tech: Tauri v2 · React · TypeScript*
+- ⚡ [**Codexia**](https://github.com/milisp/codexia) - Modern agent workstation for OpenAI Codex CLI and claude code/cowork
 
-- 🔗 [**MCP-Linker**](https://github.com/milisp/mcp-linker)
-  Cross-platform GUI for managing and syncing MCP configs across clients (Claude, Cursor, etc.).
-  *Tech: Tauri · ShadCN · FastAPI*
+- 🔗 [**MCP-Linker**](https://github.com/milisp/mcp-linker) - Cross-platform GUI for managing and syncing MCP configs across clients (Claude, Cursor, etc.).
 
-- 📦 [**awesome-claude-dxt**](https://github.com/milisp/awesome-claude-dxt)
-  Curated Claude Desktop Extensions (.dxt).
+- 🚀 [**awesome-codex-cli**](https://github.com/milisp/awesome-codex-cli) - A curated list of awesome resources, tools, and tutorials for OpenAI Codex CLI
 
-- 🔗 [**claudia-plux**](https://github.com/milisp/claudia-plux/blob/feature/file-tree-notes-system/README.md)
-  Notepad and files from FileTree and Claude code all in one
+- 📦 [**awesome-claude-dxt**](https://github.com/milisp/awesome-claude-dxt) - Curated Claude Desktop Extensions (.dxt).
 
-- 🛠 [**misleading-macos-damaged-warning**](https://github.com/milisp/misleading-macos-damaged-warning)
-  Advocacy for fixing Apple's misleading "damaged app" warnings.
+- 🛠 [**misleading-macos-damaged-warning**](https://github.com/milisp/misleading-macos-damaged-warning) - Advocacy for fixing Apple's misleading "damaged app" warnings.
 
 ---
 
 ## 🛠 Tech Stack
 
 `Tauri` · `FastAPI` · `ShadCN` · `Next.js` · `FFmpeg` · `Supabase`
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milisp&layout=compact&theme=radical)
 
 ---
 
@@ -56,7 +45,5 @@
 - 💻 Contributions welcome—check each repo’s Contributing Guide
 
 ---
-
-📊 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milisp&show_icons=true&theme=radical)
 
 ⭐️ If you like my work, consider giving a star to the repos!
