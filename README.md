@@ -1,7 +1,7 @@
 # 👋 Hi, I'm milisp
 
 🚀 Building tools to make AI workflows seamless.
-**Developer building cross-platform AI & dev tools** with Tauri · FastAPI · ShadCN · Next.js.
+**Building cross-platform AI Agent & dev tools** with Tauri · FastAPI · ShadCN.
 
 [![GitHub followers](https://img.shields.io/github/followers/milisp?label=Follow&style=social)](https://github.com/milisp)
 [![Stars](https://img.shields.io/github/stars/milisp?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/milisp?tab=repositories)
