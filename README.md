@@ -1,7 +1,7 @@
 # 👋 Hi, I'm milisp
 
 🚀 Building tools to make AI workflows seamless.
-**Building cross-platform AI Agent & dev tools** with Tauri · FastAPI · ShadCN.
+**Building cross-platform AI Agent tools** with Tauri · FastAPI · ShadCN.
 
 [![GitHub followers](https://img.shields.io/github/followers/milisp?label=Follow&style=social)](https://github.com/milisp)
 [![Stars](https://img.shields.io/github/stars/milisp?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/milisp?tab=repositories)
@@ -10,7 +10,7 @@
 
 ## 🚀 Key Projects
 
-- 🔮 [**Plux**](https://github.com/milisp/plux) - AI finder/explorer, One-click @files to AI context with a visual file tree and notepad. No more copy-paste.
+- 🔮 [**Plux**](https://milisp.dev/plux) - Capture now with a shortcut. Turn it into a todo, send it to AI anytime
 
 - ⚡ [**Codexia**](https://github.com/milisp/codexia) - Modern agent workstation for OpenAI Codex CLI and claude code/cowork
 
