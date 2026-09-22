@@ -1,7 +1,8 @@
 # 👋 Hi, I'm milisp
 
-🚀 Building tools to make AI workflows seamless.
-**Building cross-platform AI Agent tools** with Tauri · FastAPI · ShadCN.
+**I build the harness layer for coding agents** — the client that holds the agent, adapts its protocol, manages its MCP servers, isolates its workspace and ships to users.
+
+📬 Open to remote work, full-time or contract — hi@milisp.dev
 
 [![GitHub followers](https://img.shields.io/github/followers/milisp?label=Follow&style=social)](https://github.com/milisp)
 [![Stars](https://img.shields.io/github/stars/milisp?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/milisp?tab=repositories)
@@ -10,40 +11,33 @@
 
 ## 🚀 Key Projects
 
-- 🔮 [**Plux**](https://milisp.dev/plux) - Capture now with a shortcut. Turn it into a todo, send it to AI anytime
+- ⚡ [**Codexia**](https://github.com/milisp/codexia) · ⭐918 — Desktop harness for Codex CLI and Claude Code. Three agent backends wired up (Codex CLI, ACP, Claude Code), each with its own event handling, in one client — plus MCP server management, git worktree isolation, session scheduling and headless remote control. Tauri + Rust + React. 84 releases, ~13k binary downloads, in the official Homebrew cask — `brew install --cask codexia`
 
-- ⚡ [**Codexia**](https://github.com/milisp/codexia) - Modern agent workstation for OpenAI Codex CLI and claude code/cowork
+- 🔗 [**MCP-Linker**](https://github.com/milisp/mcp-linker) · ⭐325 — Manage and sync MCP configs across Claude Code, Claude Desktop, Cursor, Windsurf, VS Code, Cline and Codex.
 
-- 🔗 [**MCP-Linker**](https://github.com/milisp/mcp-linker) - Cross-platform GUI for managing and syncing MCP configs across clients (Claude, Cursor, etc.).
+- 🏘 [**keke**](https://apps.apple.com/app/id6811334900) — Learn a language by walking into a 3D town. React Native + Expo + WebGPU, one scene that is never torn down. Four interface languages. *Live on the App Store.*
 
-- 🚀 [**awesome-codex-cli**](https://github.com/milisp/awesome-codex-cli) - A curated list of awesome resources, tools, and tutorials for OpenAI Codex CLI
+- [keke-agent](https://github.com/milisp/keke-agent) - Lightweight coding agent harness built in Rust for zero vendor lock-in. 7 MB, BYOK, Support Codex and grok subscriptions too
 
-- 📦 [**awesome-claude-dxt**](https://github.com/milisp/awesome-claude-dxt) - Curated Claude Desktop Extensions (.dxt).
+- 🚀 [**awesome-codex-cli**](https://github.com/milisp/awesome-codex-cli) · ⭐115 — Curated resources and tools for OpenAI Codex CLI.
 
-- 🛠 [**misleading-macos-damaged-warning**](https://github.com/milisp/misleading-macos-damaged-warning) - Advocacy for fixing Apple's misleading "damaged app" warnings.
+- 🔮 [**Plux**](https://milisp.dev/plux) — Capture anything with a shortcut, turn it into a todo, send it back into any AI app. Global hotkeys, accessibility permissions, cross-app text injection. macOS + Windows.
+
+- 📦 [**awesome-claude-dxt**](https://github.com/milisp/awesome-claude-dxt) — Curated Claude Desktop Extensions (.dxt).
 
 ---
 
 ## 🛠 Tech Stack
 
-`Tauri` · `FastAPI` · `ShadCN` · `Next.js` · `FFmpeg` · `Supabase`
+`MCP` · `ACP` · `Rust` · `Tauri` · `TypeScript` · `React` · `React Native` · `Expo` · `WebGPU` · `Python` · `FastAPI` · `Next.js` · `Supabase`
 
 ---
 
 ## 🌱 Exploring
 
-- Next-gen AI workflows
-- MCP ecosystem & tooling
-- Creative AI tools
+- Long-running and parallel agents: scheduling, isolation, remote control
+- Real-time 3D on mobile
 
 ---
 
-## 🤝 Get Involved
-
-- 🌟 Star my repos or explore them at [github.com/milisp](https://github.com/milisp)
-- 💡 Have ideas? Open an issue or follow me on [X](https://x.com/lisp_mi)
-- 💻 Contributions welcome—check each repo’s Contributing Guide
-
----
-
-⭐️ If you like my work, consider giving a star to the repos!
+📬 hi@milisp.dev
